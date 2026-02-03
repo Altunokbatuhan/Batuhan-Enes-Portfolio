@@ -17,7 +17,7 @@ PC platformu için geliştirilen, Unity'nin modern ağ mimarisiyle inşa edilmi�
 ## 🧩 Mobil Puzzle Serisi (Published)
 2D mantık ve zeka oyunlarını kapsayan, market süreçleri tamamlanmış projelerdir. (App store ve Play store)
 
-### 🔳 Grid-X (Nodex)
+### 🔳 Grid-X 
 Stratejik çizgi birleştirme oyunu. Neon tarzda UI tasarımı ve optimize edilmiş grid sistemleri mevcuttur.
 
 ### 📝 Words Hunter (Multiplayer)
@@ -35,8 +35,11 @@ Farklı puzzle mekaniklerine sahip, yüksek performanslı 2D zeka oyunları seri
 - **C#:** SOLID prensipleri, Design Patterns ve "Readable Code" felsefesi.
 - **Networking:** Unity Netcode, Mirror, Firebase.
 
+
 ### 🎨 Tasarım & Modelleme (Design & Art)
 - **2D UI/UX:** Figma, Adobe Illustrator (Neon, Modern UI, gibi çoklu tasarımlar).
 - **3D Art:** Blender (Low-poly, çevre modelleme, açık dünya haritalamaları).
 
 ---
+![2](https://github.com/user-attachments/assets/6d26f511-fff7-4927-86c1-1cfb8c5de286)
+![1](https://github.com/user-attachments/assets/456b21d9-e074-4cc5-ae89-0f4907b42462)
